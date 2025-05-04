@@ -1,5 +1,11 @@
 # Pydantic Type Safety Library
 
+
+
+![Uploading 20250504_1217_Pydantic Python Thumbnail_remix_01jtcr4apseb9vbtv5zs9828qx.png…]()
+
+
+
 A production grade Python type safety library built on top of Pydantic. This repository provides ready-to-use examples and patterns for:
 
 - Defining robust data models  
