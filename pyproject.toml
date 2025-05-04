@@ -1,0 +1,21 @@
+[project]
+name = "pydantic-walkthrough"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "ahmedashfaq850", email = "ahmedashfaq6777@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.115.12",
+    "pydantic>=2.11.4",
+    "python-dotenv>=1.1.0",
+]
+
+[project.scripts]
+pydantic-walkthrough = "pydantic_walkthrough:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
